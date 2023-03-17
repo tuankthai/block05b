@@ -1,4 +1,23 @@
-padding: 1rem;
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1,h2 {
+    font-weight: normal;
+}
+
+a {
+    color: #0077cc;
+}
+
+/* Header styles */
+header {
+    background-color: #0077cc;
+    color: #fff;
+    padding: 1rem;
 }
 
 /* Main section styles */
